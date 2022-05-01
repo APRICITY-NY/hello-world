@@ -12,3 +12,6 @@ My First Repository
 #### 3. GitHub_3_Loop
 ##### 3-1 사용자가 입력한 숫자보다 작은 숫자로 리스트 만들기
 ##### 3-2 두 개의 리스트 병합하여 중복된 아이템이 없는 새로운 리스트 만들기
+
+#### 4. GitHub_4_Draw_for_Winners
+##### Random함수를 사용하여 당첨자 뽑기
